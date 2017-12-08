@@ -1,1 +1,1 @@
-# prismacn
+# prismacn for all
